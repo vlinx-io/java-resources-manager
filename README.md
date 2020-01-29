@@ -1,2 +1,2 @@
-# java-resource-manager
-Java Resource Manager
+# java-resources-manager
+Java Resources Manager
