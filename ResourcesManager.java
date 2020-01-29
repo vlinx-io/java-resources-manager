@@ -6,7 +6,7 @@ import java.net.URLDecoder;
 * Resource manager of jar file
 */
 
-public class ResourceManager {
+public class ResourcesManager {
 
     public String getResourcePath(String relativePath) {
         try {
