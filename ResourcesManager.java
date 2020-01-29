@@ -3,7 +3,7 @@ import java.io.UnsupportedEncodingException;
 import java.net.URLDecoder;
 
 /*
-* Resource manager of jar file
+* Resources manager of jar file
 */
 
 public class ResourcesManager {
