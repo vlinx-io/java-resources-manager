@@ -6,7 +6,7 @@ import vlinx.logging.Logger;
 import vlinx.resource.IResourceManager;
 
 /*
- * Resource manager of Eclipse Plugin
+ * Resources manager of Eclipse Plugin
  */
 public class BundleResourcesManager implements IResourceManager {
 
