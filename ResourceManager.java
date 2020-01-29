@@ -4,7 +4,7 @@ import java.net.URLDecoder;
 
 /*
 * Resource manager of jar file
-/*
+*/
 
 public class ResourceManager {
 
