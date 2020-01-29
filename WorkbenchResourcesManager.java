@@ -3,7 +3,7 @@ import java.io.File;
 /*
  * Resource manager of Eclipse workspace
  */
-public class WorkbenchResourceManager {
+public class WorkbenchResourcesManager {
 
 	@Override
 	public String getBasePath() {
