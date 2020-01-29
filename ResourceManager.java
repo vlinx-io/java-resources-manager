@@ -2,6 +2,10 @@ import java.io.File;
 import java.io.UnsupportedEncodingException;
 import java.net.URLDecoder;
 
+/*
+* Resource manager of jar file
+/*
+
 public class ResourceManager {
 
     public String getResourcePath(String relativePath) {
