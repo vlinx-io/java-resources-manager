@@ -4,6 +4,7 @@ import java.net.URLDecoder;
 
 /*
 * Resources manager of classpath
+* 采用 java -cp classpath MainClass 时候有效，BasePath为MainClass所在Jar的路径
 */
 
 public class ResourcesManager {
