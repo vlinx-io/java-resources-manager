@@ -17,7 +17,7 @@ public class ResourcesManager {
     }
 
     public String getBasePath() {
-        File file = new File(ResourceManager.class.getProtectionDomain().getCodeSource().getLocation().getPath());
+        File file = new File(ResourceManagers.class.getProtectionDomain().getCodeSource().getLocation().getPath());
 
         String absPath = "";
 
